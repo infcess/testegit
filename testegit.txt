@@ -1,7 +1,8 @@
--------------TITULO INI-------------------
+-------------Titulo INI-------------------
 LINHA 1
 linha 2
--------------TITULO FIM-------------------
+Linha 3
+-------------Titulo FIM-------------------
 Oi
 Oi, tudo bem??
 Ana manda msg 1
