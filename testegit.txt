@@ -18,6 +18,12 @@ ITEM LISTA 3
 
 Corrigindo bug
 
+------------NOVO ARRAY INI--------------
+ARRA ITEM 1
+ARRA ITEM 2
+ARRA ITEM 3
+------------NOVO ARRAY FIM--------------
+
 ------------NOVO RECURSO URGENTE---------------
 a
 b
